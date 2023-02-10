@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strava-activity-upload-v2",
+  "private_key_id": "edfc62727117e986aa793b274e08065bb022807e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCxyTIvHDQheDg9\nlVI+Y4AqK2hOFRDEKqgMipJ3SH1s5zlzU8VsajOaLLNU5GN5AzcZUiL9MsxmHUxC\niq7H/j75OYmPHe7woAqNYTQ6dyvHHlsTgZr7tTylEBPdb8Aiis49q7brwRDPfb0H\nmqlcR/WHs2R8kMAi6QY7IIuzX2lA3ZSatDswJCLAyrLwmP7DtNsfEw7BpGMdbjUA\nO1mt9gYhS/049KThcuwHsAs+3KHrPFsvyVbCBypHsFOSprc++5TQ+QJyfHVwn/xL\nPL/DpuxfwzLOfbFoQOj4bpMKmH/zJSyvC8RUY4j9FIdOs13kG+h8t1am0KLaBbXR\nWKLjPZHpAgMBAAECgf89HOwjRY6l8q1iffHHgGyOEl3IeXVJ+V/K79dpKYHz7YfS\nHPnASsFyPetnQxrufixyh8l/P/cDIw8T0JhEJyF+iki+6Ys5K8p0zvUlI9HooIau\nLd8YpzQxiVVKyR9CwHQkvuIiKDufF5njA0c0cYf1HbVtHFTvqyp5KLbc8e88XFpo\nMK/E6OA5XXgM6Bn2NZ722EFBUOMX8UMxpVdAcU8Hr4SydBY23Vu/hmHIs/d8DqVr\nFCexXbFtZNhpJl+mfVirfEFthyzDL7r59rUvHq12Ws34LYshF26MSBkW3TVxUwVU\nYWvTdbPI+uKErq/QfK18w2vPh+4DAb3tV4PfoOECgYEA98WUUt19bupn/S2HgXKl\nDy6fYukiKvbGMQkOaA53n7FLLoF1OLJ5lAhqCDOPR1VFbziZZ6U/Xq5GsadIGXv/\nE2U8eNGYYkeY2fVKvzcs/CYZjGKNcj6HtQl4rbFoN3PSpP4Nh32RcU0aQXSDjRdd\nP6MDxueB1D/USNRikpU0vL8CgYEAt7Cii1mk03LGgxk/l+GcpZ2kfQJ7/Mcm+tdx\nNNR8xRAFB8kIx1Tu804oit9rK36fRMOfuIEVN9ZAHKtiJxHt+DrFe1XiUlC0PvPt\nGkz6V0JLyGNDHkT3khK0BETvaoOW//iNgg5wjj9ygX5a2v2xl3hrGba4Sh1JakVx\n3jlA01cCgYAFU7EhqvNkbBO6RL1SEiXsUqNInByI8e9G5JvzrsPxof0szcm4Y1Xr\n0dZ9wKYG8ZVhk8TwjoPzRCnu7drF+X19bELFkjQFgOaPYQ+vVr9X2HXaJ9BEsYV3\nZfG7QkIsVwgjVfbyf8eduPukhp3BbcwqbxXIs/d9mbW1ryNDZYPRvwKBgA+DhIbe\nYFRXajqiREOwk0lNghnovs3/h+RBk9cRZyRBkRsyOGKVYsT7weLQsb1vqUXme7Pa\new9HMgz50IVaN03ysMEU5NNs63wxn8HL5IzAFaRr9bw1uO8GU1vU8p99U6B0vobQ\nb2MkKqiTIltCd+BCFFGMpA3mYU/vY4mQLlBrAoGBAMC4YSPxlLLMbc8F3gBpUxV5\nlKpXgtPMbNYp+IG6xqFj3xZpFp1JxADRstUWEnO5fqdB6FZ9jqitASspBeseLke7\nLxWXiF2K++lEye7Dk7kKzKAtbeg0vXV9Lamn31gQ4YEKbLdiaHFYti46I6Gjmfm3\n1+cpjnolcMFVRRsOuzmF\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-385yi@strava-activity-upload-v2.iam.gserviceaccount.com",
+  "client_id": "112354729587209498903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-385yi%40strava-activity-upload-v2.iam.gserviceaccount.com"
+}
